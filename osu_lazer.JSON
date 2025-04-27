@@ -7,7 +7,8 @@
       "localizedDescription": "First AltStore Update!",
       "downloadURL": "https://drive.google.com/uc?export=download&id=1x6PSzVzhxq5nEGMhpYl_GATkBMBenSkL",
       "size": 194642331,
-      "minOSVersion": "13.4"
+      "minOSVersion": "13.4",
+      "name": "osu_lazer Update"
     },
     {
       "version": "1.0",
