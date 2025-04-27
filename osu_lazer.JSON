@@ -1,10 +1,4 @@
 {
-  "versions": [
-    {
-      "name": "osu!",
-      "version": "1.0",
-      "buildVersion": "2025.424.0",
-      "date": "2024-05-25",{
   "name": "osu!",
   "subtitle": "All my apps in one place.",
   "description": "Welcome to my source! Here you'll find all of my apps.",
@@ -87,24 +81,6 @@
       "imageURL": "https://example.com/app_update_image.png",
       "notify": false,
       "appID": "com.example.myapp"
-    }
-  ]
-}
-
-      "localizedDescription": "First AltStore Update!",
-      "downloadURL": "https://drive.google.com/uc?export=download&id=1x6PSzVzhxq5nEGMhpYl_GATkBMBenSkL",
-      "size": 194642331,
-      "minOSVersion": "13.4"
-    },
-    {
-      "name": "osu!",
-      "version": "1.0",
-      "buildVersion": "2025.118.3",
-      "date": "2024-03-30",
-      "localizedDescription": "First AltStore release!",
-      "downloadURL": "https://drive.google.com/uc?export=download&id=1JQdUAbl5ZoYVAFw6kA2f1jMqnhh2dnfK",
-      "size": 196974093,
-      "minOSVersion": "13.4"
     }
   ]
 }
